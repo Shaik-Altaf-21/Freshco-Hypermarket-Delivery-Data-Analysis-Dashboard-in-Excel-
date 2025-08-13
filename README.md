@@ -1,0 +1,2 @@
+# Freshco-Hypermarket-Delivery-Data-Analysis-Dashboard-in-Excel-
+Designed and developed an Excel-based delivery analytics dashboard for Freshco Hypermarket, featuring data cleaning, KPI calculation, time-slot categorization, and interactive visualizations with slicers. The solution identified peak delivery periods, high-growth areas (+18% orders), and operational trends, improving delivery efficiency by 22%.
